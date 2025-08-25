@@ -227,6 +227,8 @@
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
+  margin-left: 25px;
+  margin-top: 136px;
 }
 
 .about__logo {
@@ -242,11 +244,6 @@
 .about__logo-image {
   width: 148px;
   height: auto;
-}
-
-.about__column-text {
-  margin-left: 25px;
-  margin-top: 136px;
 }
 
 .about__title {
